@@ -1,4 +1,4 @@
-# Hackintosh Opencore ryzen-9-5950x-x570-proart-creator-wifi-rx6900xt
+# Hackintosh Opencore ryzen-9-5950x-x570-proart-creator-wifi-rx6900xt Monterey
 
 Functional EFI, working with monterey 12.6.7
 
